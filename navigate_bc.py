@@ -1,5 +1,5 @@
 """
-Reinforcement Learning agent that trains on MineRLTreechop environment. It is then evaluated on MineRLObtainDiamond by
+Reinforcement Learning agent that trains on MineRLNavigateDense environment. It is then evaluated on MineRLObtainDiamond by
 running it for a certain number of ticks and then switching to the scripted part that crafts a wooden_pickaxe and digs
 down to get some cobblestone.
 With default parameters it trains in about 8 hours on a machine with a GeForce RTX 2080 Ti GPU.
