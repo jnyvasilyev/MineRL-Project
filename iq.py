@@ -6,8 +6,8 @@ Standalone IQ-Learn algorithm. See LICENSE for licensing terms.
 import torch as th
 import torch.nn.functional as F
 import torch.nn as nn
-from models.Actor import Actor
-from models.Critic import Critic
+import Actor
+import Critic
 import numpy as np
 import time
 import minerl
