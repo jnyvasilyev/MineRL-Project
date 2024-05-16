@@ -4,8 +4,8 @@ import torch as th
 import torch.nn as nn
 import matplotlib.pyplot as plt
 import wandb
-from models.Actor import Actor
-from models.Critic import Critic
+import Actor
+import Critic
 from utils import compute_gae, get_entropy_linear
 import minerl
 
