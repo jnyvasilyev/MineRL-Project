@@ -1,5 +1,7 @@
 # MineRL-Project
 
+This repo is for archival purposes. Original project submission is https://github.com/laithaustin/mine_agent_baselines
+
 ## Installation Guide
 First make sure to have all of the needed requirements using our requirements.txt file.
 ```pip install -r requirements.txt```
