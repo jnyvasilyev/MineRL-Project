@@ -2,6 +2,8 @@
 
 This repo is for archival purposes. Original project submission is https://github.com/laithaustin/mine_agent_baselines
 
+Here's our [video](https://www.youtube.com/watch?v=eeIsgwrQ4Ro) and [final report](https://drive.google.com/file/d/1EW6crMhqG4zzK9WBmFs4JBpQPZyxsPfA/view?usp=sharing)
+
 ## Installation Guide
 First make sure to have all of the needed requirements using our requirements.txt file.
 ```pip install -r requirements.txt```
